@@ -1,7 +1,7 @@
 <p align="center"><img alt="Logo do projeto" width="250px" src="https://github.com/RaianePedra/Proffy/blob/master/public/images/logo%20proffy.png?raw=true" /></p> 
 
 ## 🎨 Layout da página inicial
-<p align="center"> <img alt="Layout" width="800px" src="https://github.com/RaianePedra/Proffy/blob/master/public/images/Captura%20de%20Tela%20(13).png?raw=true" /></p>
+<p align="center"> <img alt="Layout" width="700px" src="https://github.com/RaianePedra/Proffy/blob/master/public/images/Captura%20de%20Tela%20(13).png?raw=true" /></p>
  
 ## 📝 Descrição
 Projeto desenvolvido durante a Next Level Week, realizada pela [Rocketseat](https://rocketseat.com.br/ "Rocketseat") durante os dias 3 a 9 de Agosto de 2020.
